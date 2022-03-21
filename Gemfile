@@ -44,7 +44,7 @@ gem 'aasm', '~> 5.2'
 # CSV
 gem 'csv', '~> 3.2', '>= 3.2.2'
 # XLSX
-gem 'roo', '~> 2.8', '>= 2.8.3'
+gem 'roo', '~> 2.9'
 # XLS
 gem 'roo-xls', '~> 1.2'
 # Pagination
